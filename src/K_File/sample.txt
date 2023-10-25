@@ -1,0 +1,3 @@
+Sample file to store data.
+added
+Adding a new value
